@@ -13,7 +13,7 @@ header {
   padding:60px;
   height: 100vh;
   text-align: right ;
-  background-image: url('..images/jagadeesh.jpg');
+  background-image: url('../images/jagadeesh.jpg');
   background-position: left center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -146,3 +146,4 @@ html {
     opacity: 1;
 
 }
+
